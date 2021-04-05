@@ -1,0 +1,6 @@
+[submodule "slack-mern-server"]
+	path = slack-mern-server
+	url = https://github.com/nicolasmarino99/slack-mern-server.git
+[submodule "slack-mern-client"]
+	path = slack-mern-client
+	url = https://github.com/nicolasmarino99/slack-mern-client.git
